@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 🎓 CS Undergrad | ML + Full Stack Explorer | 🎨 Hobby Artist
 
-## 🚀 What I'm working on
+## What I'm working on
 - Implementing ideas from research papers into small experiments
 - Building intuition in system design through real-world patterns
 - Strengthening problem-solving through consistent DSA practice
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) |
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 plus many more 
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sherpeus)
 
 ## Featured Projects
@@ -60,7 +60,7 @@ frontend
 - Ranked in the top 10% globally on LeetCode for competitive programming
 - Semi-finalist in Codesprintx Sri Lanka for the Notewave project (led a 5-member team)
 
-## 📫 How to reach me
+## How to reach me
 - #### Email: mdrodrigo2006@gmail.com
 - #### LinkedIn: linkedin.com/in/mark-rodrigo
 - #### GitHub: You are already there 🫡
